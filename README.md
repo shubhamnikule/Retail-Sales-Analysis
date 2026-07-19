@@ -1,2 +1,15 @@
-# Retail-Sales-Analysis
-A real-world retail sales analysis project using Python, Pandas, and Matplotlib to analyze sales data and visualize trends.
+# Retail Sales Analysis
+
+This project analyzes retail sales data using Python.
+
+## Features
+- Data Loading
+- Data Analysis
+- Total Sales
+- Category-wise Sales
+- Monthly Sales Visualization
+
+## Technologies
+- Python
+- Pandas
+- Matplotlib
